@@ -1,0 +1,11 @@
+nav {
+  width: 100%;
+}
+#banner {
+  width:100px;
+  height: 100px;
+}
+.service {
+  display: inline-block;
+  text-align: center;
+}
